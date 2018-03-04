@@ -44,7 +44,6 @@ A:\Learning\CryptoBot\CryptoBot\bin\Microsoft.AI.DependencyCollector.xml
 A:\Learning\CryptoBot\CryptoBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
 A:\Learning\CryptoBot\CryptoBot\bin\Microsoft.AI.WindowsServer.xml
 A:\Learning\CryptoBot\CryptoBot\bin\Microsoft.AI.Web.xml
-A:\Learning\CryptoBot\CryptoBot\obj\Debug\CryptoBot.csprojResolveAssemblyReference.cache
 A:\Learning\CryptoBot\CryptoBot\obj\Debug\CryptoBot.csproj.CoreCompileInputs.cache
 A:\Learning\CryptoBot\CryptoBot\obj\Debug\CryptoBot.dll
 A:\Learning\CryptoBot\CryptoBot\obj\Debug\CryptoBot.pdb
